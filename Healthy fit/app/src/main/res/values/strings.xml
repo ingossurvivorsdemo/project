@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Healthy fit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment_account">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="reccomendation_1">Попробуйте использовать формулу «10–3–2–1–0»:
+· 10 часов перед сном: никакого кофеина;
+· 3 часа перед сном: никакой еды и алкоголя;
+· 2 часа перед сном: никакой работы;
+· 1 час перед сном: никаких экранов;
+· 0: количество нажатий на кнопку «Отложить» на будильнике утром.</string>
+    <string name="reccomendation_2">Что-то идёт не так! Может быть, посетить сомнолога? Вы можете найти сомнолога в следующих
+        поликлиниках в рамках Вашей программы
+· ООО «Клиника ЛМС»
+· ООО «МЕДСИ»</string>
+    <string name="reccomendation_3">Вы на верном пути! Что ещё можно сделать:
+· Ложитесь спать до полуночи. Оптимальное время - с 22.00 до 23.00.
+· Не устраивайте мозговой штурм позже 21 часа.
+· Проветрите спальню.
+· Создайте ритуал отхода ко сну</string>
+
+
+
+
+</resources>

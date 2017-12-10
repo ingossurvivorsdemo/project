@@ -1,0 +1,16 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android_Projects\\today\\Healthy fit\\HoloGraphLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "C:\\Android_Projects\\today\\mhukm\\HoloGraphLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "D:\\Projects\\Android\\Libraries\\danielnadeau-holographlibrary-0b41d14f5724\\Frost\\HoloGraphLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        }
+    ]
+}

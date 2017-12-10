@@ -1,0 +1,11 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Android\Libraries\danielnadeau-holographlibrary-0b41d14f5724\Frost\HoloGraphLibrary\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\Projects\Android\Libraries\danielnadeau-holographlibrary-0b41d14f5724\Frost\HoloGraphLibrary\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\Projects\Android\Libraries\danielnadeau-holographlibrary-0b41d14f5724\Frost\HoloGraphLibrary\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from D:\Projects\Android\Libraries\danielnadeau-holographlibrary-0b41d14f5724\Frost\HoloGraphLibrary\AndroidManifest.xml:2:5-40
+		INJECTED from D:\Projects\Android\Libraries\danielnadeau-holographlibrary-0b41d14f5724\Frost\HoloGraphLibrary\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\Libraries\danielnadeau-holographlibrary-0b41d14f5724\Frost\HoloGraphLibrary\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Android\Libraries\danielnadeau-holographlibrary-0b41d14f5724\Frost\HoloGraphLibrary\AndroidManifest.xml:1:11-69
